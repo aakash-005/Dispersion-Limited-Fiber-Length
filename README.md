@@ -38,5 +38,12 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1650faa0-6a18-4f90-8ccc-8d224a876617" />
+
 # Tabulation
+<img width="992" height="1117" alt="WhatsApp Image 2026-05-27 at 21 21 59" src="https://github.com/user-attachments/assets/1dfd61c2-4411-4c7c-8fba-2903eb0ba68c" />
+
+
+
 # Result
+Using the pulse spread criterion ($\Delta \tau \le \frac{1}{4R}$), the dispersion-limited fiber length for the $2.5\text{ Gb/s}$ system was calculated to be $23.53\text{ km}$ based on a chromatic dispersion of $17.7\text{ ps/(nm}\cdot\text{km)}$ and a spectral width of $0.6\text{ nm}$. OptiSystem simulations verified that at this maximum length, Inter-Symbol Interference (ISI) is minimized, yielding an acceptable $\text{Q-factor} \ge 6$ and an open eye diagram. Increasing the length beyond this limit causes severe pulse broadening due to chromatic dispersion, completely closing the eye diagram and failing the performance target ($\text{BER} > 10^{-9}$).
